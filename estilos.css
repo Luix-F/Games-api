@@ -1,0 +1,212 @@
+.header a{
+    text-decoration: none;
+    color: rgb(7, 221, 157);
+    font-weight: bold;
+    
+}
+
+.topu{
+    background-image: url(img/barra.jpg);
+    background-position: 0px -150px;
+}
+
+.header{
+   
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   background-position: 0px -30px;
+   /*background-image: url(img/black.jpg);*/
+   padding: 10px;
+}
+.menu{
+    display: flex;
+    
+}
+
+.corp{
+    background-image: url(img/Xbox-Acquire.jpg);
+}
+
+.menu li{
+    list-style: none;
+    margin-left: 10px;
+    
+}
+
+.modal-body img{ width: 100%;}
+
+.m{
+    margin-right: 100px;
+}
+
+.titulo{
+    padding-left: 8%;
+}
+
+.main_area{
+    margin-bottom: 20px;
+}
+
+.logs{
+    
+    margin-left: 50px;
+}
+
+.CdP{
+    margin-right: 10px;
+    
+}
+
+.texto_principal{ background: #e4e3e3; padding: 20px; margin-top: 20px; margin-bottom: 20px;}
+
+.PrimeT{
+    
+    margin-left: 0px;
+    /*background-image: url(img/black.jpg);*/
+    color: red;
+    background-position: 0px -5px;
+    padding-top: 30px; 
+    margin-top: 0px; 
+    margin-bottom: 0px;
+    
+}
+
+.PrimeT2{
+    
+    margin-left: 0px;
+    background-image: url(img/black.jpg);
+    color: red;
+    background-position: 0px -5px;
+    padding-top: 30px; 
+    margin-top: 0px; 
+    margin-bottom: 0px;
+    
+}
+
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+select{
+    font-family: 'FontAwesome' , 'TATSanaChon';
+}
+
+.fc select option{
+    margin-right: 110px;
+    
+}
+.card_area > div{ margin-bottom: 30px; margin-left: 10px; margin-right: 10px; }
+
+.card_area img { width: 100%; }
+.card_area{
+    margin-left: 20px;
+}
+
+.card_area1 > div{ margin-bottom: 30px; margin-left: 10px; margin-right: 10px; }
+.card_area1 img { width: 100%; }
+.card_area1{
+    margin-left: 0px;
+    background-image: url(img/4373018.jpg);
+    background-size: 120%;
+}
+
+
+
+
+.card_area2 > div{ margin-bottom: 30px; margin-left: 10px; margin-right: 10px; }
+.card_area2 img { width: 100%; }
+.card_area2{
+    margin-left: 0px;
+    background-image: url(img/cool-geometric-triangular-figure-in-a-neon-laser-light-great-for-backgrounds.jpg);
+    background-size: 100%;
+    background-position: 0px -180px;
+}
+
+
+
+.final{
+    background: #e4e3e3;
+}
+h2{
+    margin-left: 40px;
+    padding: 20px; margin-top: 20px; margin-bottom: 20px;
+}
+
+p{
+    margin-left: 40px;
+    color:white ;
+}
+
+.logs2{
+    margin-right: 50px;
+}
+
+.rodape{
+    background: #727272;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+    padding: 10px;
+}
+
+.rd{
+    margin-right: 50px;
+}
+
+span{
+    font-weight: bold;
+}
+
+.carr{
+    background: #727272;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: right;
+    
+    padding: 10px;
+}
+
+.destaq{
+    margin-left: 110px;
+    color: rgb(221, 7, 7);
+}
+
+.des0{
+    margin-left: 0px;
+    color: black;
+    background-position: 0px -20px;
+    background-image: url(img/black.jpg);
+    
+}
+
+.des{
+    margin-left: 0px;
+    color: aliceblue;
+    background-position: 0px -20px;
+    
+}
+
+
+.des2{
+    margin-left: 0px;
+    color: black;
+    background-position: 0px -20px;
+    
+    
+}
+
+.rde{
+    background-image: url(img/cool2.jpg);
+    background-size: 100%;
+    background-position: 0px -280px;
+    color: aliceblue;
+
+
+}
+
+
+.p5 a{
+    text-decoration: none;
+    color: black;;
+    font-weight: bold;
+    
+}
